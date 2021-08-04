@@ -14,7 +14,7 @@ export default function Home() {
 
             <main className={styles.main}>
                 <h1 className={styles.title}>
-                    Hi{" "}
+                    Hi, I&apos;m Muntasir{" "}
                     <span role="img" className={styles.wave}>
                         👋
                     </span>
@@ -24,8 +24,8 @@ export default function Home() {
                     tad early.
                 </p>
                 <p className={styles.subdescription}>
-                    Check back soon for the full deal. <br /> In the meantime if you&apos;d like to
-                    get in touch, you can hit me up on{" "}
+                    Check back soon for my new website. <br /> In the meantime if you&apos;d just
+                    like to get in touch, you can hit me up on{" "}
                     <a
                         href="https://twitter.com/_muntasirsyed"
                         target="_blank"
